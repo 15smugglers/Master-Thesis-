@@ -11,4 +11,7 @@ Code the the Partial order model. Adjusted the code where necessary to load and 
 Adjusted their code to extract the Elo scores to model ranks for Elo model 
 
 ## Model Comparision
-Code to compute sum of lambda and beta to calculate the rankgs for the Plackett-Luce model. Please note: the Plot.WAIC file not only plots the WAIC values but also calculates them. 
+Code to compute sum of lambda and beta to calculate the rankgs for the Plackett-Luce model. Please note: the Plot.WAIC file not only plots the WAIC values but also calculates them. Folder also contains code to calculate and evaluate the posterior predictive distribution for the Plackett-Luce model and the Partial order model 
+
+## Data 
+Please note that we have not uploaded the RData files (5gb in total). 
